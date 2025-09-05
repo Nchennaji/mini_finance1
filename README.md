@@ -218,3 +218,10 @@ Once you've made your LinkedIn post:
 💡 **Learning is great, but showcasing your skills is even better!** By sharing your achievement, you're taking a **big step towards building your professional reputation** in the industry.  
 
 See you in the **LinkedIn network!** 🎉
+
+The code snippet for making date dynamic:
+  <footer style="text-align:center; padding:10px; font-size:14px;">
+  Mini Finance v1.0 — Deployed on 
+  <span id="deploy-date"></span> — By Nchedo Theresa Nnaji
+</footer>
+

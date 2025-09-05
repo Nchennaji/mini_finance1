@@ -1146,4 +1146,19 @@ strong {
     font-size: var(--h6-font-size);
   }
 }
+.custom-footer {
+  text-align: center;
+  padding: 12px;
+  font-size: 14px;
+  background-color: #f8f9fa; /* Light background */
+  color: #222; /* Dark text for contrast */
+}
+
+@media (max-width: 768px) {
+  .custom-footer {
+    font-size: 12px; /* Slightly smaller on mobile */
+    padding: 8px;
+  }
+}
+
 
